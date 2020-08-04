@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://isatbytheo.github.io/my-app/",
+    "imagebaseurl":"https://isatbytheo.github.io/portfolio/",
     "name": "Anthony Fernandes",
     "role": "",
     "linkedinId":"anthony-fernandes-aa058398",
@@ -18,7 +18,7 @@ let resumeData = {
       ],
     "aboutme":"I believe in socializing ideas. Team work thrives in an environment where folks feel confortable with open communication. This open-ness is a consequence of both, how surrounding peers percieve/react to new ideas, and, how these ideas are brought to life. As a technical lead, and an experienced developer, I believe this can be acheived by steering a peers intuition: Ask questions, and, Making colaborative efforts in both development and in some cases, a discover phase for technical requirements. ",
     "address":"Toronto",
-    "website":"https://isatbytheo.github.io/my-app/",
+    "website":"https://isatbytheo.github.io/portfolio/",
     "education":[
       {
         "UniversityName":"Dundalk institute of Technology",
