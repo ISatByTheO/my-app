@@ -1,54 +1,33 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://isatbytheo.github.io/my-app/",
+    "name": "Anthony Fernandes",
+    "role": "Technical Lead, Developer.",
+    "linkedinId":"anthony-fernandes-aa058398",
+    "roleDescription": "Technical Lead, OOP developer with a keen interest in Microservice development, Patters, Algorithms and teaching.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/anthony-fernandes-aa058398/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/isatbytheo",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I believe in socializing ideas. Team work thrives in an environment where folks feel confortable with open communication. This open-ness is a consequence of both, how surrounding peers percieve/react to new ideas, and, how these ideas are brought to life. As a technical lead, and an experienced developer, I believe this can be acheived by steering a peers intuition: Ask questions, and, Making colaborative efforts in both development and in some cases, a discover phase for technical requirements. ",
+    "address":"Toronto",
+    "website":"https://isatbytheo.github.io/my-app/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Dundalk institute of Technology",
+        "specialization":"Computing and Mathematics",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2015"
       }
     ],
     "work":[
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
       {
         "CompanyName":"Some Company",
         "specialization":"Some specialization",
@@ -60,14 +39,20 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"C# / .NET core"
       },
       {
-        "skillname":"CSS"
+        "skillname":"SQL"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"Javascript (React.js, TypeScript)"
+      },
+      {
+        "skillname":"Docker"
+      },
+      {
+        "skillname":"git"
+      },
     ],
     "portfolio":[
       {
