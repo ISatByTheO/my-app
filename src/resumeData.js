@@ -56,24 +56,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Prometric",
+        "description":"Data migration",
+        "imgurl":"images/portfolio/prometric.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Intact",
+        "description":"ERP",
+        "imgurl":"images/portfolio/intact.svg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Dunraven Systems",
+        "description":"IOT.",  
+        "imgurl":"images/portfolio/dunravensystems.jfif"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"PayBright",
+        "description":"E-Commerce, consumer financing.",
+        "imgurl":"images/portfolio/paybright.jfif"
       }
     ],
     "testimonials":[
