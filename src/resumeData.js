@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://isatbytheo.github.io/my-app/",
     "name": "Anthony Fernandes",
-    "role": "Technical Lead, Developer.",
+    "role": "",
     "linkedinId":"anthony-fernandes-aa058398",
     "roleDescription": "Technical Lead, OOP developer with a keen interest in Microservice development, Patters, Algorithms and teaching.",
     "socialLinks":[
