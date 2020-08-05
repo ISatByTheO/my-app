@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -230,6 +230,13 @@ ul#nav li.current a { color: #F06000; }
    font-size: 20px;
 }
 
+/**/
+#blog {
+   background: #6b44c7;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
