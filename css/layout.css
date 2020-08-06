@@ -257,6 +257,7 @@ ul#nav li.current a { color: #F06000; }
    background-color: #ffffff;
    margin: 20px;
    border-radius: 7.5px;
+   float: left !important;
 }
 
 /* ------------------------------------------------------------------ */
