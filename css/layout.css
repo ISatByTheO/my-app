@@ -230,12 +230,33 @@ ul#nav li.current a { color: #F06000; }
    font-size: 20px;
 }
 
-/**/
+/* ------------------------------------------------------------------ */
+/* d. Blog Section
+/* ------------------------------------------------------------------ */
+
 #blog {
+   position: relative;
+   height: auto;
+   max-width: 100%;
    background: #6b44c7;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
+}
+
+.blog-entry-container{
+   position: relative;
+   max-width: 800px;
+   width: auto;
+   height: auto;
+}
+
+.blog-entry {
+   height: 75px;
+   width: 200px;
+   background-color: #ffffff;
+   margin: 20px;
+   border-radius: 7.5px;
 }
 
 /* ------------------------------------------------------------------ */
